@@ -1,5 +1,4 @@
+Repository related to [Collaborative Development using Git and GitHub](https://code-maven.com/collab-dev-git) book.
+Read the instructions in the book.
 
-Perl 5 example for https://leanpub.com/collab-dev-git/
-
-run `prove -l` to run the test.
 
